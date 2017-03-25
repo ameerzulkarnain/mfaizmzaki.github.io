@@ -1,6 +1,8 @@
 # Data Science Meet #1
 _24 March 2017_
 
+> Data Scientist (n.): A person who is better at statistics than any software engineer and better at software engineering than any statistician. 
+>-- Some good guy on Google
 ##### Data Science
 
   - Not a new thing. Has always been there. 
