@@ -60,6 +60,6 @@ skip through all the hassle
 [MyEduX - Open Data Hackathon](http://project.fsktm.um.edu.my/myedux)
 [iPython](https://ipython.org/install.html)
 [Kaggle](https://www.kaggle.com/)
-[Gov Open Data Portal](data.gov.my)
+[Gov Open Data Portal](http://data.gov.my)
 [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 [Rapid Miner](https://rapidminer.com/)
