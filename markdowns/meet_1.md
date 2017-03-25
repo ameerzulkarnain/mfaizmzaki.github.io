@@ -63,3 +63,4 @@ skip through all the hassle
 [Gov Open Data Portal](http://data.gov.my)
 [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 [Rapid Miner](https://rapidminer.com/)
+[Static iPython - Titanic Problem Solution on Kaggle](http://nbviewer.jupyter.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb)
