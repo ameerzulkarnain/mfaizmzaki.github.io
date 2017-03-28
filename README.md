@@ -9,7 +9,7 @@ A repo for write-ups on FCSIT weekly data science meet.
 
 ### Datasets
 
-For datasets, kindly navigate to [`./resources/datasets`](https://github.com/mfaizmzaki/mfaizmzaki.github.io/tree/master/resources/datasets)
+For datasets, kindly navigate to [`./resources/datasets`](https://github.com/mfaizmzaki/mfaizmzaki.github.io/tree/master/resources/Datasets)
 
 ##### Contact (Telegram)
 - @mfaizmzaki
