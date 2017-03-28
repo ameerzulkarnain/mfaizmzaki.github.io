@@ -94,8 +94,8 @@ For more info on task description: http://kdd.ics.uci.edu/databases/kddcup99/tas
 
 ## Data Files
 
-[A list of features](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.names)
-[The full data set (18M; 743M Uncompressed)](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data.gz)
-[A 10% subset. (2.1M; 75M Uncompressed)](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data_10_percent.gz)
+- [A list of features](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.names) 
+- [The full data set (18M; 743M Uncompressed)](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data.gz) 
+- [A 10% subset. (2.1M; 75M Uncompressed)](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data_10_percent.gz) 
 
 For your own exploration, the 10% subset data is enough. The file is in 'csv' format.
