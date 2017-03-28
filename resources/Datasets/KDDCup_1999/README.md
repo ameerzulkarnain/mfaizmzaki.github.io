@@ -21,6 +21,8 @@ For more info on task description: http://kdd.ics.uci.edu/databases/kddcup99/tas
 
 ## Attack Types
 
+|Attack Name   	|Attack Type|
+|---------------|-----------|
 |back 			|dos|
 |buffer_overflow| u2r|
 |tp_write 		|r2l|
@@ -47,6 +49,7 @@ For more info on task description: http://kdd.ics.uci.edu/databases/kddcup99/tas
 ## List of Features
 
 |Features Name | Type|
+|--------------|-----|
 |duration | continuous|
 |protocol_type | symbolic|
 |service | symbolic|
