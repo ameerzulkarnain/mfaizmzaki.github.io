@@ -2,7 +2,6 @@
 
 _31 March 2017_
 
-#### CIMB Data Science Challenge
 ##### Online Assessment: Discussion
 
 
